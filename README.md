@@ -87,7 +87,7 @@ Model disimpan ke berbagai format:
 
 ---
 
-## 🚀 Tools
+## 🛠️ Tools
 
 - Python + TensorFlow + Keras
 - Google Colab
